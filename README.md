@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iamniranjan7/Portfolio/main/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/iamniranjan7/Portfolio/main/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamniranjan7&label=Profile%20views&color=0e75b6&style=flat" alt="iamniranjan7" /> </p>
 
